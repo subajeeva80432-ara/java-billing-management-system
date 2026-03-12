@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class BillingManagement {
 
     static class Product {
         String name;
@@ -68,4 +68,5 @@ public class Main {
 
         }
     }
+
 }
